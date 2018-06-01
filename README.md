@@ -1,5 +1,6 @@
 ## 下载文件配置
-#### $ npm install
+
+#### $ npm install -g json-server
 ## 文件运行 
 #### $ npm run json:server
 
